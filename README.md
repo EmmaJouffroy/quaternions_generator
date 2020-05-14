@@ -37,6 +37,6 @@ Ce dossier contient l'ensemble des fichiers nécessaires pour la création de la
 
 
 <p float="left">
-<img src="img/output_min.gif" width=500 height="500"/>
+<img src="img/output_min.gif" width=500 height="400"/>
 <img src="img/rotating_object_min.gif" width=320 height="300"/>
 <p/>
