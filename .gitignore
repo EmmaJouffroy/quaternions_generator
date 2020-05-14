@@ -3,3 +3,7 @@ compute_rotations.blend1
 quaternions_distribution.png
 translations.blend1
 Sans titre.code-workspace
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+dataset
